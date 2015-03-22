@@ -55,5 +55,5 @@ html, body {
   top: 0;
   display: inline-block;
   z-index: 3;
-  position: absolute;
+  position: relative;
 }
