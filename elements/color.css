@@ -1,0 +1,32 @@
+.red {
+  border-top-color: #8F230C;
+  background-color: #B5230C;
+}
+.ong {
+  border-top-color: #A74016;
+  background-color: #D14016;
+}
+.yel {
+  border-top-color: #AD8726;
+  background-color: #E4AE29;
+}
+.grn {
+  border-top-color: #2F5504;
+  background-color: #3E7C04;
+}
+.blu {
+  border-top-color: #134651;
+  background-color: #1B4F72;
+}
+.prp {
+  border-top-color: #2B002F;
+  background-color: #421856;
+}
+.wht {
+  border-top-color: #CECEBB;
+  background-color: #EAEAD3;
+}
+.blk {
+  border-top-color: #0A0A0A;
+  background-color: #141414;
+}
