@@ -45,4 +45,6 @@ html, body {
   height: 25px;
   border-top-style: solid;
   border-top-width: 7px;
+  float: right;
+  top: 0;
 }
