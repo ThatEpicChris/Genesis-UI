@@ -40,3 +40,9 @@ html, body {
   text-transform: capitalize;
   font-size: 13px;
 }
+.item {
+  width: auto;
+  height: 25px;
+  border-top-style: solid;
+  border-top-width: 7px;
+}
