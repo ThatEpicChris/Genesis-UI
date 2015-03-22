@@ -2,3 +2,8 @@
   color: #E4AE29;
   display: inline-block;
 }
+.txt-alert {
+  display: inline-block;
+  color: #E4AE29;
+  line-height: 100%;
+}
