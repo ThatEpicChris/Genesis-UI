@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  border-top-color: #CECEBB;
+  background-color: #EAEAD3;
+}
+.body {
+  margin-top: 10px;
+  text-align: center;
+}
+.header {
+  height: 25px;
+  width: 100%;
+  border-top-style: solid;
+  border-top-width: 7px;
+  padding-left: 5px;
+  padding-top: 2px;
+  margin-bottom: -1px;
+  color: #EAEAD3;
+  -webkit-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.40);
+  -moz-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.40);
+  box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.40);
+}
+.title {
+  text-transform: uppercase;
+  display: inline-block;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #EAEAD3;
+  padding-right: 5px;
+}
+.subtitle {
+  display: inline-block;
+  padding-left: 3px;
+  text-transform: capitalize;
+  font-size: 13px;
+}
