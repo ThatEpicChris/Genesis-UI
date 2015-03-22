@@ -54,7 +54,6 @@ html, body {
   float: right;
   top: 0;
   display: inline-block;
-  z-index: 3;
-  position: fixed;
+  z-index: 2;
   color: #EAEAD3;
 }
