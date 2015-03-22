@@ -47,4 +47,5 @@ html, body {
   border-top-width: 7px;
   float: right;
   top: 0;
+  display: inline-block;
 }
