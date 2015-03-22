@@ -48,4 +48,5 @@ html, body {
   float: right;
   top: 0;
   display: inline-block;
+  position: absolute;
 }
