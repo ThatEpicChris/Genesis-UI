@@ -62,4 +62,5 @@ html, body {
   top: 0;
   right: 0;
   z-index: 2;
+  margin-top: -50px;
 }
