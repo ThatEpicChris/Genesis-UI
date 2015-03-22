@@ -55,6 +55,12 @@ html, body {
   top: 0;
   display: inline-block;
   z-index: 2;
-  position: absolute;
+  position: relative;
   color: #EAEAD3;
+}
+.hlink {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 2;
 }
