@@ -25,6 +25,7 @@ html, body {
   -webkit-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.40);
   -moz-box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.40);
   box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.40);
+  position: fixed;
 }
 .title {
   text-transform: uppercase;
