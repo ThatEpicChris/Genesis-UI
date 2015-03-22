@@ -42,11 +42,12 @@ html, body {
 }
 .item {
   width: auto;
+  padding-left: 5px;
+  padding-right: 5px;
   height: 25px;
   border-top-style: solid;
   border-top-width: 7px;
   float: right;
   top: 0;
   display: inline-block;
-  position: absolute;
 }
