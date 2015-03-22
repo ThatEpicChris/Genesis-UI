@@ -1,6 +1,7 @@
 .alert {
   color: #E4AE29;
   display: inline-block;
+  margin-top: 5px;
 }
 .txt-alert {
   display: inline-block;
