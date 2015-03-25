@@ -8,7 +8,7 @@ html, body {
   height: 100%;
   border-top-color: #CECEBB;
   background-color: #EAEAD3;
-  overflow-x: none;
+  overflow-x: hidden;
 }
 .body {
   text-align: center;
