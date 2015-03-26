@@ -18,3 +18,17 @@
 .scrollsheet {
   height: 3000px;
 }
+.sheet-profile {
+  height: 500px;
+  width: 200px;
+}
+.sheet-profile-top {
+  height: 300px;
+  width: 200px;
+  border-top-style: solid;
+  border-top-width: 7px;
+}
+.sheet-profile-body {
+  height: 50px;
+  width: 200px;
+}
