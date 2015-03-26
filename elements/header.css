@@ -68,7 +68,7 @@ html, body {
 }
 .tb-subtitle {
   display: inline-block;
-  padding-left: 3px;
+  padding-left: -3px;
   text-transform: capitalize;
   font-size: 26px;
   z-index: 2;
