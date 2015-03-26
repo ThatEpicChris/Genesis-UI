@@ -23,12 +23,13 @@
   width: 200px;
 }
 .sheet-profile-top {
-  height: 300px;
+  height: 200px;
   width: 200px;
   border-top-style: solid;
   border-top-width: 7px;
 }
 .sheet-profile-body {
-  height: 50px;
+  height: 100px;
   width: 200px;
+  
 }
