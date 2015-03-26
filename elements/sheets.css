@@ -19,7 +19,7 @@
   height: 3000px;
 }
 .sheet-profile {
-  height: 500px;
+  height: 250px;
   width: 200px;
 }
 .sheet-profile-top {
@@ -29,7 +29,7 @@
   border-top-width: 7px;
 }
 .sheet-profile-body {
-  height: 100px;
+  height: 50px;
   width: 200px;
   
 }
